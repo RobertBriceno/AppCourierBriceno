@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AppCourierBriceno</string>
+    <string name="todo">TODO</string>
+    <string name="bienvenido_a_tu_courier">BIENVENIDO A TU COURIER</string>
+    <string name="text_view_ingresar">INGRESAR</string>
+    <string name="text_view_lista">LISTA DE PRODUCTOS</string>
+    <string name="text_view_titulo">PRODUCTOS</string>
+    <string name="text_view_producto1">1. CELULAR</string>
+    <string name="text_view_producto2">2. BILLETERA</string>
+    <string name="text_view_producto3">3. LINTERNA</string>
+    <string name="text_view_producto4">4. LAPTOP</string>
+    <string name="text_view_informacion">INFORMACION</string>
+    <string name="btn_text_resgistro">REGISTRAR</string>
+    <string name="text_view_informacion1">Marca: Iphone
+        Destino: Huanuco-Lima</string>
+    <string name="text_view_informacion2">Marca: Renzo Costa   Destino: Lima-Chiclayo</string>
+    <string name="text_view_informacion3">Marca: Fenix  Destino: Huanuco-Tarma</string>
+    <string name="text_view_informacion4">Marca: Macbook Pro M2 Destino: Lima-Piura</string>
+    <string name="text_view_foto">FOTO</string>
+    <string name="text_view_registrando">REGISTRO</string>
+    <string name="text_view_boton1">EL PRODUCTO SE ENTREGÓ SATISFACTORIAMENTE</string>
+    <string name="text_view_boton2">DIRECCION INCORRECTA O POCA INFORMACION DEL PRODUCTO</string>
+    <string name="text_view_boton3">EL PRODUCTO LLEGÓ DEFECTUOSO</string>
+    <string name="btn_text_entrego1">SE ENTREGÓ</string>
+    <string name="btn_text_entrego2">NO SE ENTREGÓ</string>
+    <string name="btn_text_entrego3">PRODUCTO DEFECTUOSO</string>
+    <string name="text_view_producto">ESPECIFIQUE EL PRODUCTO ENTREGADO</string>
+    <string name="text_hint_informacion">ESCRIBA AQUI</string>
+    <string name="btn_text_registrar">REGISTRAR</string>
+</resources>
